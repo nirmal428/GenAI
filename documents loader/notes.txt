@@ -1,0 +1,18 @@
+Hi my name is Nirmal Maurya 
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems that can perform tasks that normally require human intelligence.
+
+Machine Learning (ML) is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Generative AI is a type of Artificial Intelligence that can generate new content such as text, images, audio, video, and computer code.
+
+Large Language Models (LLMs) are AI models trained on large amounts of text data. They can understand and generate human-like text. Examples include GPT, Llama, Gemini, and Mistral.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with a Large Language Model. In a RAG system, documents are loaded, divided into smaller chunks, converted into embeddings, and stored in a vector database. When a user asks a question, relevant information is retrieved from the database and provided to the LLM to generate a more accurate answer.
+
+A typical RAG pipeline contains several steps: document loading, document splitting, embedding generation, vector database storage, retrieval, and response generation.
+
+LangChain is a framework that helps developers build applications powered by Large Language Models. It provides components for document loading, text splitting, embeddings, vector stores, retrievers, prompts, and LLM integration.
+
+Python is one of the most popular programming languages for Artificial Intelligence and Machine Learning because it has many useful libraries such as NumPy, Pandas, Scikit-learn, PyTorch, and LangChain.
+
+The main goal of a RAG system is to allow an LLM to answer questions using external or private knowledge that may not have been included in the model's original training data.

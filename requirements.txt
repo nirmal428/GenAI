@@ -1,0 +1,46 @@
+# Core
+python-dotenv
+requests
+
+# LLM APIs
+groq
+mistralai
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-mistralai
+
+# RAG / Document Processing
+pypdf
+python-docx
+beautifulsoup4
+tiktoken
+
+# Embeddings / Vector Search
+sentence-transformers
+faiss-cpu
+
+# MongoDB
+pymongo
+langchain-mongodb
+
+# Web App
+streamlit
+
+# Optional UI / API
+gradio
+fastapi
+uvicorn
+
+# Data Handling
+numpy
+pandas
+
+tiktoken
+
+chromadb
+
+arxiv
+
+langchain_chroma
